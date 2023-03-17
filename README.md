@@ -48,7 +48,8 @@ plt.plot(x,y_pred,color='blue')
 plt.show()
 ```
 ## Output:
-![best fit line](ss.png)
+![Screenshot 2023-03-15 140426](https://user-images.githubusercontent.com/113915622/225964678-2e004374-f119-4298-80dc-dc1ca0773369.png)
+
 
 
 
